@@ -8,7 +8,7 @@ a*sin(t) and b*cos(t)
 Every matrix is just a composition of Rotation, Stretching, Rotation
 
 # How it works
-Exact reverse of ICA(Independent Component Analysis)
+Exact reverse of ICA(Independent Component Analysis) without whitening 
 1. Multiply matrix(MAT) to column matrix of two orthogonal functions
 2. Calculate covariance to determine direction
 3. Scaling
