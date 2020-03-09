@@ -16,3 +16,5 @@ Exact reverse of ICA(Independent Component Analysis) without whitening
 5. UsV^t = MAT
 
 # ALGORITHM for phase detection
+# Further Applications
+For any N by N matrix, it takes lots of calculations in order to operate certain steps of SVD
