@@ -12,7 +12,7 @@ Exact reverse of ICA(Independent Component Analysis) without whitening
 1. Multiply matrix(MAT) to column matrix of two orthogonal functions
 2. Calculate covariance to determine direction
 3. Scaling
-4. Use secret 'Algorithm'
+4. Use 'Algorithm'
 5. UsV^t = MAT
 
 # ALGORITHM for phase detection
